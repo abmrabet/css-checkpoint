@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+ .navi > ul {
+    display: inline;
+}
+.navi {
+    padding: 2%;
+    
+
+}
+.me > img, iframe{
+    position: relative;
+    left: 20%;
+}
+h2 {
+    color: red;
+    padding: 20px;
+    text-decoration: underline;
+    text-decoration-color: lightsalmon;
+}
+footer {text-align: center;
+
+}
+
+body{
+    background-image: url(pxfuel.jpg);
+    background-size: cover;
+    background-position:  center center;
+}
+
+p,form { 
+    font-family: roboto;
+    font-size: larger;
+    font-style: italic;
+    color: orange;
+}
+a{
+    text-decoration:  none;
+    color: red;
+    font-size: larger;
+}
+a:hover {
+    color: black ;
+}
+.up { padding-left: 50%;
+    margin-bottom: 5%;
+    
+}
